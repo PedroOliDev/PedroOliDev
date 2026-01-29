@@ -1,4 +1,4 @@
-**`Desenvolvedor FullStack`**
+**`Software Engineer`**
 
 ### 🤖 Linguagens e Tecnologias
 
