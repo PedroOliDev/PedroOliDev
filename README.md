@@ -5,13 +5,12 @@ Software Engineer
 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo SENAI
 🎓 Graduando em Engenharia de Software pela FIAP
 
-Sou engenheiro de software com foco principal em desenvolvimento Back-End, utilizando Python (Flask) e Java (Spring Boot) para construir aplicações robustas, escaláveis e bem estruturadas.
+Sou estudante de Engenharia de Software na FIAP, formado em Análise e Desenvolvimento de Sistemas pelo SENAI, com foco em Dados, Inteligência Artificial e Automação.
+Desenvolvo projetos utilizando Python para análise e processamento de dados, integração de modelos de IA, automação de processos e construção de soluções inteligentes. Também possuo experiência com Java (Spring Boot) no desenvolvimento de APIs REST e aplicações back-end.
+Tenho experiência em projetos acadêmicos e pessoais envolvendo análise de dados, Machine Learning, automação com IA, integração de APIs, bancos de dados relacionais, ETL e visualização de dados. Recentemente desenvolvi agentes de IA capazes de automatizar processos como análise de documentos, classificação inteligente e integração com serviços como Gmail, Google Drive e Google Sheets utilizando n8n.
+Busco aplicar tecnologia para resolver problemas reais por meio de dados e Inteligência Artificial, sempre priorizando soluções escaláveis, organizadas e orientadas a resultados. Estou em constante aprendizado e tenho interesse em oportunidades nas áreas de Inteligência Artificial, Ciência de Dados, Machine Learning e Engenharia de Dados.
 
-Tenho experiência no desenvolvimento de APIs REST, autenticação com sessões, integração com bancos de dados relacionais, organização em camadas (Controller, Service, Repository) e aplicação de boas práticas como código limpo e separação de responsabilidades.
 
-Também possuo base sólida em Front-End, trabalhando com HTML, CSS e JavaScript para criar interfaces funcionais e responsivas, totalmente integradas ao back-end.
-
-Estou em constante evolução técnica, sempre buscando aprender novas tecnologias, melhorar minha arquitetura de código e desenvolver soluções alinhadas às necessidades reais do mercado.
 
 🚀 Focado em crescer como engenheiro de software e contribuir com projetos que envolvam performance, escalabilidade e inovação.
 
